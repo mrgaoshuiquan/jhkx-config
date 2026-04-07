@@ -9,6 +9,15 @@
     "fiizvfck.top=danmu.888484.xyz"
   ],
   "sites": [
+   {
+      "key": "douban",
+      "name": "🎬首页｜热播",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
     {
       "key": "点我切源",
       "name": "博客【https://gaoops.com/】",
