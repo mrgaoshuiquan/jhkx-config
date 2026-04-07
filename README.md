@@ -22,7 +22,7 @@ This repository contains a personal TVBox / 影视仓 configuration with aggrega
 3. 填入以下配置地址：
 
 ```
-https://raw.githubusercontent.com/mrgaoshuiquan/mfpf-config/main/mfpf.json
+https://juhuangapi.gaoops.top/
 ```
 
 4. 保存后等待加载完成即可
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/mrgaoshuiquan/mfpf-config/main/mfpf.json
 3. Enter the following configuration URL:
 
 ```
-https://raw.githubusercontent.com/mrgaoshuiquan/mfpf-config/main/mfpf.json
+[https://raw.githubusercontent.com/mrgaoshuiquan/mfpf-config/main/mfpf.json](https://juhuangapi.gaoops.top/)
 ```
 
 4. Save and wait for the configuration to load
