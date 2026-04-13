@@ -9,7 +9,17 @@
     "fiizvfck.top=danmu.888484.xyz"
   ],
   "sites": [
-     {
+    {
+      "key": "点我切换播放源",
+      "name": "🎬首页｜热播",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "./jar/pbdb.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
       "key": "点我切源",
       "name": "博客【https://gaoops.com/】",
       "type": 3,
