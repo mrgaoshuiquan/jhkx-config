@@ -47,7 +47,7 @@ https://tvbox-public.gaoops.top/
 仓库根目录 / Repository Root
 │
 ├── README.md                  # 说明文件 / This file
-├── my_tvbox_local.json        # 主配置文件 / Main config file
+├── tvbox.json               # 主配置文件 / Main config file
 │
 ├── jar/
 │   └── spider.jar             # 爬虫核心文件 / Spider core file
