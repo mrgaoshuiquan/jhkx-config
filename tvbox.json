@@ -649,13 +649,13 @@
   ],
   "lives": [
     {
-      "name": "Kimentanm",
+      "name": "切换直播源(1)",
       "type": 0,
       "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
     },
     {
-      "name": "develop202",
+      "name": "切换直播源(2)",
       "type": 0,
       "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "playerType": 2,
