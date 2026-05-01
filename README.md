@@ -4,6 +4,7 @@
 > Personal TVBox configuration, based on [qist/tvbox](https://github.com/qist/tvbox).
 
 >⭐ 如果这个项目对你有帮助，欢迎给个 Star 支持一下！
+>
 >⭐If this project helps you, please give it a Star to support!
 
 ---
