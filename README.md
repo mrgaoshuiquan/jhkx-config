@@ -2,6 +2,8 @@
 
 > 个人影视仓 / TVBox 配置文件，基于 [饭太硬](https://github.com/qist/tvbox) 大神配置修改。  
 > Personal TVBox configuration, based on [qist/tvbox](https://github.com/qist/tvbox).
+>⭐ 如果这个项目对你有帮助，欢迎给个 Star 支持一下！
+>⭐If this project helps you, please give it a Star to support!
 
 ---
 
